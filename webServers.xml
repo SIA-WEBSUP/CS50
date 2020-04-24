@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6c6997ea-ef9f-449d-a780-261c4d7babd4" name="Suffolk Intergroup Test " url="http://sia/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="99254f00-f781-4bab-95c9-739b4d5e141e" name="SIA-Curr" url="http://localhost/SIA-Curr/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

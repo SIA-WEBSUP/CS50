@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="9babeb91-8771-4464-b3a2-5c97f609925e" name="websup@suffolkny-aa.org">
+      <server useHttp="false" host="github.com" />
+    </account>
+  </component>
+</application>

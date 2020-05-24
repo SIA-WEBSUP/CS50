@@ -7,6 +7,14 @@
       <webServer id="99254f00-f781-4bab-95c9-739b4d5e141e" name="SIA-Curr" url="http://localhost/SIA-Curr/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="7aba1832-01cc-4aaa-8f74-f8eb0d9528d2" name="Dream Host" url="http://ps622162.dreamhostps.com">
+        <fileTransfer host="ps622162.dreamhostps.com" port="22" rootFolder="/home/suffolk_websup/classic.suffolkny-aa.org" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

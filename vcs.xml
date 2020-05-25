@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="websup@suffolkny-aa.org" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/SIA-WEBSUP/SIA-CURR" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\MAMP\htdocs" />
   </component>
 </application>
